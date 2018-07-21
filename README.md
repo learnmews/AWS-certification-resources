@@ -9,9 +9,17 @@ Certification : AWS Certified Solutions Architect – Associate(Released Februar
 
 - [Online course](#Online-Course)   
 
+- [AWS Well-Architected home page](https://aws.amazon.com/architecture/well-architected/)
 
+- [AWS whitepapers](#AWS-whitepapers)
+
+- [Five pillars of the Well-Architected framework](#Five-pillars)
 
 ## Online Course
 This course is created by A cloud guru folks and offered through Udemy. Will add more notes as I work through it.
+
 [AWS Certified Solutions Architect - Associate 2018](https://www.udemy.com/aws-certified-solutions-architect-associate/)
 
+## AWS Whitepapers
+- [AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+- [Architecting for the Cloud - AWS Best practices](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
