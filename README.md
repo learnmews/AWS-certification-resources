@@ -7,7 +7,7 @@ Certification : AWS Certified Solutions Architect – Associate(Released Februar
 
 - [Sample exam questions](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions%20Architect_Associate_Feb_2018_Sample%20Questions_v1.0.pdf)
 
-- [Online course](#Online Course)   
+- [Online course](#Online-Course)   
 
 
 
