@@ -19,6 +19,8 @@ Certification : AWS Certified Solutions Architect – Associate(Released Februar
 
 - [More AWS whitepapers](#more-aws-whitepapers)
 
+- [AWS training resources](#aws-training-resources)
+
 - [AWS case studies](https://aws.amazon.com/solutions/case-studies/)
 
 - [AWS documentation](https://aws.amazon.com/documentation/)
@@ -42,4 +44,10 @@ This course is created by A cloud guru folks and offered through Udemy. Will add
 
 ## More AWS whitepapers
 - [Serverless Streaming Architectures and Best Practices](https://d1.awsstatic.com/serverless/Whitepaper/Stream%20Processing%20Whitepaper.pdf)
+
+## AWS training resources
+AWS training has free online courses covering basics of cloud and AWS, Architecture and other AWS topics. Some of these are covered by whitepapers as well but good to have options.
+
+- [AWS Cloud Practitioner Essentials](https://www.aws.training/learningobject/curriculum?id=16357)
+- [AWS Well-Architected Training](https://www.aws.training/transcript/curriculumplayer?transcriptId=97mgOKv9hkiZlYzLuW1dBA2)
 
