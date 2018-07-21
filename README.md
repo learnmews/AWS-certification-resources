@@ -27,7 +27,7 @@ Certification : [AWS Certified Solutions Architect – Associate(Released Februa
 
 
 ## Online Course
-This course is created by A cloud guru folks and offered through Udemy. Will add more notes as I work through it.
+This course is created by [A Cloud Guru](https://acloud.guru/) folks and offered through Udemy. Will add more notes as I work through it.
 
 [AWS Certified Solutions Architect - Associate 2018](https://www.udemy.com/aws-certified-solutions-architect-associate/)
 
