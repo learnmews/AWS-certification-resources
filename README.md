@@ -11,15 +11,35 @@ Certification : AWS Certified Solutions Architect – Associate(Released Februar
 
 - [AWS Well-Architected home page](https://aws.amazon.com/architecture/well-architected/)
 
-- [AWS whitepapers](#AWS-whitepapers)
-
 - [Five pillars of the Well-Architected framework](#Five-pillars)
+
+- [AWS Architecture whitepapers](#AWS-Architecture-whitepapers)
+
+- [AWS Security whitepapers](https://aws.amazon.com/security/security-resources/)
+
+- [More AWS whitepapers](#More-AWS-whitepapers)
+
+- [AWS case studies](https://aws.amazon.com/solutions/case-studies/)
+
+- [AWS documentation](https://aws.amazon.com/documentation/)
+
 
 ## Online Course
 This course is created by A cloud guru folks and offered through Udemy. Will add more notes as I work through it.
 
 [AWS Certified Solutions Architect - Associate 2018](https://www.udemy.com/aws-certified-solutions-architect-associate/)
 
-## AWS Whitepapers
+## AWS Architecture Whitepapers
 - [AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 - [Architecting for the Cloud - AWS Best practices](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
+
+## Five pillars 
+- [Operational Excellence](https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf)
+- [Security](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
+- [Reliability](https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf)
+- [Performance Efficiency](https://d1.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf)
+- [Cost Optimization](https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf)
+
+## More AWS Whitepapers
+- [Serverless Streaming Architectures and Best Practices](https://d1.awsstatic.com/serverless/Whitepaper/Stream%20Processing%20Whitepaper.pdf)
+
