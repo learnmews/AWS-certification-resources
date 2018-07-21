@@ -1,5 +1,5 @@
 # AWS-certification-resources
-My personal reference list for AWS solution Architect Associate certification
+My personal reference list for AWS solution Architect Associate certification. Will keep refining this as I prepare and complete certification.
 
 Certification : [AWS Certified Solutions Architect – Associate(Released February 2018)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
