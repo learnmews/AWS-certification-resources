@@ -7,17 +7,17 @@ Certification : AWS Certified Solutions Architect – Associate(Released Februar
 
 - [Sample exam questions](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions%20Architect_Associate_Feb_2018_Sample%20Questions_v1.0.pdf)
 
-- [Online course](#Online-Course)   
+- [Online course](#online-course)   
 
 - [AWS Well-Architected home page](https://aws.amazon.com/architecture/well-architected/)
 
-- [Five pillars of the Well-Architected framework](#Five-pillars)
+- [Five pillars of the Well-Architected framework](#five-pillars)
 
-- [AWS Architecture whitepapers](#AWS-Architecture-whitepapers)
+- [AWS Architecture whitepapers](#aws-architecture-whitepapers)
 
 - [AWS Security whitepapers](https://aws.amazon.com/security/security-resources/)
 
-- [More AWS whitepapers](#More-AWS-whitepapers)
+- [More AWS whitepapers](#more-aws-whitepapers)
 
 - [AWS case studies](https://aws.amazon.com/solutions/case-studies/)
 
@@ -40,6 +40,6 @@ This course is created by A cloud guru folks and offered through Udemy. Will add
 - [Performance Efficiency](https://d1.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf)
 - [Cost Optimization](https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf)
 
-## More AWS Whitepapers
+## More AWS whitepapers
 - [Serverless Streaming Architectures and Best Practices](https://d1.awsstatic.com/serverless/Whitepaper/Stream%20Processing%20Whitepaper.pdf)
 
