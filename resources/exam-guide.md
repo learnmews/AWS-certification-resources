@@ -46,7 +46,7 @@ Domain 5: Define Operationally Excellent Architectures | 6%
 1. Determine how to design cost-optimized storage.
 1. Determine how to design cost-optimized compute.
 
-#### Domain 5:Define Operationally-Excellent Architectures
+#### Domain 5: Define Operationally-Excellent Architectures
 1. Choose design features in solutions that enable operational excellence
 
 
