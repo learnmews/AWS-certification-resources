@@ -1,3 +1,6 @@
+**Note:** Did take my AWS Associate certification and cleared it but failed to update this repo with notes. :(
+An excellent reference link for preparation is this blog - TODO::<update with link>
+
 # AWS-certification-resources
 My personal reference list for AWS solution Architect Associate certification. Will keep refining this as I prepare and complete certification.
 
